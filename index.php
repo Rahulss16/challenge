@@ -2,7 +2,7 @@
 <body>
 	<h2>Enter the year to find leap year is not:-</h2>
 	<form action="" method="post">
-		<input type="text" name="year" />
+		<input type="text" name="year" placeholder="EnterYear" />
 		<input type="submit" value="submit" name="submit" >
 	</form>
 </body>
